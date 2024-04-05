@@ -21,7 +21,7 @@ De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o
 
 Para mais informações sobre o [git](https://www.atlassian.com/br/git/tutorials/what-is-git).
 
-Quer saber mais sobre branches, grafo e commit, [clique aqui](https://learn.microsoft.com/pt-br/visualstudio/version-control/git-browse-repository?view=vs-2022)
+Quer saber mais sobre branches, grafo e commit, [clique aqui.](https://learn.microsoft.com/pt-br/visualstudio/version-control/git-browse-repository?view=vs-2022)
 
 
 ## GitHub
