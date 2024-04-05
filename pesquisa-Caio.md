@@ -31,4 +31,4 @@ Quer saber mais sobre branches, grafo e commit, [clique aqui](https://learn.micr
 ![imagem github](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
 
 
-Quer saber mais? clique [aqui](https://www.hostinger.com.br/tutoriais/o-que-github)
+Quer saber mais? clique [aqui.](https://www.hostinger.com.br/tutoriais/o-que-github)
