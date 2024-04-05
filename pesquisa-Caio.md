@@ -24,6 +24,6 @@ Para mais informações sobre o [git](https://www.atlassian.com/br/git/tutorials
 Quer saber mais sobre branches, grafo e commit, [clique aqui](https://learn.microsoft.com/pt-br/visualstudio/version-control/git-browse-repository?view=vs-2022)
 
 
-##GitHub
+## GitHub
 
  GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
