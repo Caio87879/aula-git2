@@ -27,3 +27,8 @@ Quer saber mais sobre branches, grafo e commit, [clique aqui](https://learn.micr
 ## GitHub
 
  GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
+![imagem github](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
+
+
+Quer saber mais? clique [aqui](https://www.hostinger.com.br/tutoriais/o-que-github)
